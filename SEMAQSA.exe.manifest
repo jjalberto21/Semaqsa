@@ -235,14 +235,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SEMAQSA.exe" size="809472">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SEMAQSA.exe" size="815616">
       <assemblyIdentity name="SEMAQSA" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wmVWHQ+/dLWRvVfKaYncwf/cgXYBp8XuWr1Rl2D1q/A=</dsig:DigestValue>
+        <dsig:DigestValue>Vmwi35CpS/kzFQrZb6CfduIH8IsxrOqg7vwqaFvOpRk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
